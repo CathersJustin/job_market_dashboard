@@ -2,8 +2,9 @@
 
 This Streamlit app analyzes job postings to showcase current market trends.
 
-## Features
+![Dashboard screenshot](job_screenshot.png)
 
+## Features
 - Skill demand bar chart
 - Keyword extraction from descriptions
 - Timeline of job posting activity
