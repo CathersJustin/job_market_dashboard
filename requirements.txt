@@ -1,0 +1,5 @@
+pandas
+spacy
+streamlit
+plotly
+wordcloud

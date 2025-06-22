@@ -1,0 +1,6 @@
+job_id,job_title,company,location,salary_estimate,description,date_posted
+1,Data Scientist,DataCo,New York,120000,We are seeking a Data Scientist with Python and Machine Learning skills.,1/15/2024
+2,Data Analyst,InsightCorp,San Francisco,100000,Analyze data using SQL and Python. Experience with dashboards preferred.,2/20/2024
+3,Software Engineer,BuildStuff,New York,110000,Develop applications in Java and Python. Familiarity with cloud services.,3/10/2024
+4,Data Engineer,Pipelines Inc,Chicago,115000,"Design data pipelines with Python, SQL, and Spark. Experience in ETL processes.",4/5/2024
+5,Machine Learning Engineer,AI Labs,Austin,130000,Implement machine learning models using Python and TensorFlow.,5/12/2024
